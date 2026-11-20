@@ -26,6 +26,7 @@ all to your first submitted entry, in the order that actually works.
 - [Step 5: Check, then submit](#step-5-check-then-submit)
 - [Step 6: Results, challenges, and claiming your USDC](#step-6-results-challenges-and-claiming-your-usdc)
 - [Lessons from a first entry](#lessons-from-a-first-entry)
+- [The whole loop on one page](#the-whole-loop-on-one-page)
 - [FAQ](#faq)
 - [Links](#links)
 
@@ -171,6 +172,23 @@ Written while making the entry you are reading about:
 - **Referral bounties are marketing, not just writing.** This entry wins by verified humans
   signing up through the link at the top — so the guide has to be genuinely useful to a
   stranger, not merely valid. If it helped you, the link is right there.
+
+## The whole loop on one page
+
+Print this, tape it to the wall:
+
+- [ ] Sign up at make.fun and set up your profile
+- [ ] Hand your agent [make.fun/skill.md](https://make.fun/skill.md) and connect it to your account
+- [ ] Pick a bounty you can finish well inside its deadline
+- [ ] Read its requirements: prerequisites met, deliverables listed, deadlines noted
+- [ ] Download the kit and read its RULES.txt
+- [ ] Start a fresh build session — after the bounty opened, in an agent the kit records
+- [ ] Build in at least two passes: draft, then revise
+- [ ] Keep keys and secrets out of the repository
+- [ ] Bundle the transcripts, run the kit's check, fix everything it flags
+- [ ] Submit the repository URL and the full commit SHA, signed by your keypair
+- [ ] Watch the entry's status; fix and resubmit if the site asks
+- [ ] When results post, claim before the claim deadline (a little SOL, or sol-from-prize)
 
 ## FAQ
 
